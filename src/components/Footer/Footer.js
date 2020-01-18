@@ -70,7 +70,7 @@ export const Footer = () => (
     <FooterContainer className="footer">
         <div className="footer-inner-container">
             <div className="footer-inner-container-left">
-                <div className="footer-title">
+                <div className="title">
                     <img src={logo} alt="logo" className="title__logo"/>
                     <span className="title__text">Meals & More</span>
                 </div>
